@@ -4,5 +4,8 @@ This is an implementation of Knapsack problem, in p5 js. With a refresh, every t
 
 Also note that this is the most optimized solution only, feasible solutions have not been shown. (Optimized Solution - Profit per unit weight method).
 
+<img src="https://raw.githubusercontent.com/krshrimali/Knapsack-Problem-using-Javascript-P5-JS-/master/Knapsack-Kushashwa.png"/>
+
 Credits - Kushashwa Ravi Shrimali 
-For any doubts, feel free to get in touch with me. 
+
+For any doubts, feel free to get in touch with me.
